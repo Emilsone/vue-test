@@ -1,4 +1,4 @@
-# Functional-component
+# Vue-test-file-with-cypress
 
 ## Project setup
 ```
